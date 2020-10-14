@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Elastic Stack version](https://img.shields.io/badge/ELK-5.6.16-blue.svg?style=flat)](https://github.com/deviantony/docker-elk/issues/467)
-[![Build Status](https://api.travis-ci.org/deviantony/docker-elk.svg?branch=release-5.x)](https://travis-ci.org/deviantony/docker-elk)
+[![Build Status](https://github.com/deviantony/docker-elk/workflows/CI/badge.svg?branch=release-5.x)](https://github.com/deviantony/docker-elk/actions?query=workflow%3ACI+branch%3Arelease-5.x)
 
 Run the version 5.x of the [Elastic stack][elk-stack] with Docker and Docker Compose.
 
