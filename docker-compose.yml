@@ -73,7 +73,6 @@ networks:
   elk:
     driver: bridge
   elk_logging:
-    external: true
 
 volumes:
   elasticsearch:
